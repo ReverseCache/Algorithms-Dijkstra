@@ -40,8 +40,8 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Inspirations
 
-* Inspiration : -Edsger W. Dijkstra     
-                -[Purplebooth](https://github.com/PurpleBooth) for the readme
-                -[Barnabas](https://github.com/skumbagbarney) for inspiration through his questions about optimised algorithms
+* Edsger W. Dijkstra     
+* [Purplebooth](https://github.com/PurpleBooth) for the readme
+* [Barnabas](https://github.com/skumbagbarney) through his questions about optimised algorithms
